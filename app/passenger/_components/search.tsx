@@ -71,7 +71,7 @@ export const SearchBar = () => {
   };
 
   return (
-    <div className="py-10 px-5 pb-24">
+    <div className="py-10 px-5 pb-32">
       <div className="w-full sm:w-3/4 max-w-7xl mx-auto flex items-center space-x-8">
         <div className="relative w-1/2">
           <Popover open={showHello} onOpenChange={setShowHello}>

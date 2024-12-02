@@ -80,7 +80,7 @@ export default function Premium() {
           </div>
           <div className="bg-white p-10 m-3 rounded-lg text-center border-[5px] border-[#33576E] transition duration-300 cursor-pointer hover:shadow-lg">
             <h2 className="mb-3 text-2xl font-semibold text-[#33576E]">
-              Gold Horizon Package
+            Platinum Comfort Package
             </h2>
             <ul className="max-w-[300px]">
               <li className="text-[#33576E] mb-3">

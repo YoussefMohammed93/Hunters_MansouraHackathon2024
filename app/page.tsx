@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Main() {
   return (
     <div>
-      <header className="flex items-center space-x-5 justify-center sm:justify-end fixed top-0 left-0 right-0 z-50 bg-transparent p-4">
+      <header className="flex items-center space-x-5 justify-center sm:justify-end fixed top-0 left-0 right-10 z-50 bg-transparent p-4">
         <div className="flex items-center space-x-6">
           <Link href="/" className="text-white hover:text-sky-400 transition">
             <Facebook size={32} />
