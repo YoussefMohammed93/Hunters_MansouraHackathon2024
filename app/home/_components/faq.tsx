@@ -7,7 +7,7 @@ import {
 
 export const FAQ = () => {
   return (
-    <section className="py-10">
+    <section className="py-10 bg-[#eee]">
       <h1 className="text-5xl text-center mb-8 text-[#33576E]">FAQ</h1>
       <div className="max-w-7xl mx-auto sm:w-8/12 px-5">
         <Accordion
